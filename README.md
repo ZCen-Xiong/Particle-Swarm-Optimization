@@ -1,6 +1,7 @@
 # Particle Swarm Algorithm (Without External Dependencies) 
 Built-in matrix operation function, does not depend on other function libraries, the optimization process is as follows:
 
+$$
  {# Algorithm 1: Particle Swarm Optimization (PSO)
 
 1: Initialize population of particles with random positions and velocities
@@ -17,3 +18,4 @@ Built-in matrix operation function, does not depend on other function libraries,
 12: end while
 13: return global best position: P_global
 ```}
+$$
